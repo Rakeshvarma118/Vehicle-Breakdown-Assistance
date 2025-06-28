@@ -1,4 +1,4 @@
-## Vehicle Breakdown Assistance
+# Vehicle Breakdown Assistance
 
 Introduction
 
@@ -6,7 +6,7 @@ Imagine you are driving on the highway, and your car suddenly breaks down or you
 
 **Vehicle Breakdown Assistance** is an Android application designed to help users quickly find nearby mechanics during unexpected vehicle breakdowns. The app uses real-time location tracking with Google Maps and cloud-based Firebase services to connect users with service providers efficiently.
 
-# Functional Requirements:
+## Functional Requirements:
 Main modules:
 1.Sign-Up and log in
 2.Information of major Service stations/ petrol pumps near intercity roads and a database of their contacts.
@@ -36,7 +36,7 @@ Helper dashboard:
 5.The helper can see the information of his/her approached customer.
 6.The helper can update the task status once he/she helped the customer.
 
-#  Features:
+##  Features:
 1. User and Mechanic Login with Firebase Authentication.
 2. Mechanic Registration with name, phone, location, and service information.
 3. Google Maps integration to display user and mechanic locations.
@@ -45,7 +45,7 @@ Helper dashboard:
 6. One-tap emergency call feature for quick help.
 7. Image loading using Picasso library.
 
-# Technologies:
+## Technologies:
 1. Programming Language : Java
 2. IDE                  : Android Studio
 3. Database             : Firebase Realtime Database
@@ -55,6 +55,6 @@ Helper dashboard:
 7. Image Handling       : Picasso Library
 8. Permissions          : Permiso Library
 
-# Conclusion:
+## Conclusion:
 Vehicle Breakdown Assistance provides a practical solution to a common real-world problem faced by vehicle owners. By combining Android technologies with cloud-based Firebase services and real-time location tracking, the app bridges the gap between stranded users and nearby mechanics. This project demonstrates effective use of mobile development, cloud integration, and user-centric design to improve emergency response on the road. It has strong potential for further enhancements like service ratings, real-time tracking, and multilingual support.
 
