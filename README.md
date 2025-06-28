@@ -9,6 +9,7 @@ Imagine you are driving on the highway, and your car suddenly breaks down or you
 ## Functional Requirements:
 Main modules:
 1.Sign-Up and log in.
+
 2.Information of major Service stations/ petrol pumps near intercity roads and a database of their contacts.
 3.SOS signal in case of availability of nearby help.
 4.Pinpoint of the current location on GPS/ Integration of location service in-app.
