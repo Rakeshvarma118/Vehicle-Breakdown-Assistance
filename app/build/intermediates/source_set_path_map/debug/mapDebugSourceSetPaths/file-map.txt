@@ -1,0 +1,48 @@
+com.example.helpassistance.app-jetified-emoji2-1.3.0-0 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\008b1b27bd4b193005993340b58a9661\transformed\jetified-emoji2-1.3.0\res
+com.example.helpassistance.app-jetified-annotation-experimental-1.4.0-1 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\026a332ba37eb72b2edf15e5a56bf606\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.helpassistance.app-jetified-lifecycle-process-2.6.2-2 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\05d507aec3d8057c4f1a9e26613b6dbf\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.helpassistance.app-core-runtime-2.2.0-3 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\072be0e1a65fe547fc8b6532a1b1d6b7\transformed\core-runtime-2.2.0\res
+com.example.helpassistance.app-jetified-savedstate-1.2.1-4 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\1595ba78b84d52249f0dc4f47ce928da\transformed\jetified-savedstate-1.2.1\res
+com.example.helpassistance.app-jetified-credentials-1.2.0-rc01-5 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\1920bbc11768b68355b6ce1756d95839\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.helpassistance.app-jetified-firebase-common-21.0.0-6 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\260efaece0e1a7a5a46cc8dd57ede23f\transformed\jetified-firebase-common-21.0.0\res
+com.example.helpassistance.app-jetified-play-services-basement-18.5.0-7 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\2735b236eb875ef59eeec14ce8624f1e\transformed\jetified-play-services-basement-18.5.0\res
+com.example.helpassistance.app-appcompat-1.7.1-8 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\35c753ef8ea7486cc85539b439781e97\transformed\appcompat-1.7.1\res
+com.example.helpassistance.app-coordinatorlayout-1.1.0-9 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\37a9fad364f3dd4f3f235fae9e938309\transformed\coordinatorlayout-1.1.0\res
+com.example.helpassistance.app-jetified-permiso-0.3.0-10 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\3802e2c2765157aa43b0b89b6b0a16dc\transformed\jetified-permiso-0.3.0\res
+com.example.helpassistance.app-jetified-appcompat-resources-1.7.1-11 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\3ac552d61ad6d603023f1dff6eab7810\transformed\jetified-appcompat-resources-1.7.1\res
+com.example.helpassistance.app-jetified-viewpager2-1.0.0-12 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\3d68f3cc8c03dc3014324af9ec9ffc19\transformed\jetified-viewpager2-1.0.0\res
+com.example.helpassistance.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-13 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\42ce21380ac523626af7fc44026361e2\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.helpassistance.app-jetified-play-services-auth-20.7.0-14 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\4545f4a60e6f6560a3ff94cc45acf55e\transformed\jetified-play-services-auth-20.7.0\res
+com.example.helpassistance.app-jetified-ads-adservices-java-1.1.0-beta11-15 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\6aad3268c1b2ecdc49236a1fb5221190\transformed\jetified-ads-adservices-java-1.1.0-beta11\res
+com.example.helpassistance.app-jetified-play-services-base-18.5.0-16 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\6ab6834b9b25de79c8a9ae89a319d14c\transformed\jetified-play-services-base-18.5.0\res
+com.example.helpassistance.app-jetified-profileinstaller-1.4.0-17 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\6e81afb9099b4fe3603670a15f0b44a6\transformed\jetified-profileinstaller-1.4.0\res
+com.example.helpassistance.app-jetified-core-ktx-1.13.0-18 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\783843831942301cc6eba5bad942e9c3\transformed\jetified-core-ktx-1.13.0\res
+com.example.helpassistance.app-lifecycle-runtime-2.6.2-19 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\7a3984c35101da27f88382a551fea67c\transformed\lifecycle-runtime-2.6.2\res
+com.example.helpassistance.app-transition-1.5.0-20 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\7abadd3ae94a51968e8dbeac227b6244\transformed\transition-1.5.0\res
+com.example.helpassistance.app-jetified-activity-1.10.1-21 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\8a60bd2a0e38680c4f30e11d181c498d\transformed\jetified-activity-1.10.1\res
+com.example.helpassistance.app-lifecycle-livedata-core-2.6.2-22 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\8a94e4ed06d85d144bb88947d9d33581\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.helpassistance.app-fragment-1.5.4-23 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\91167e2893c62532afbe2bdd0532c525\transformed\fragment-1.5.4\res
+com.example.helpassistance.app-jetified-core-common-2.0.3-24 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\9c232dd072d9e64ebe902f2272446b72\transformed\jetified-core-common-2.0.3\res
+com.example.helpassistance.app-jetified-play-services-maps-19.2.0-25 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\aa221bb2eff063a14f9f44388b410db7\transformed\jetified-play-services-maps-19.2.0\res
+com.example.helpassistance.app-lifecycle-livedata-2.6.2-26 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\b0e832ee475af30c87cc8fcf131c2d62\transformed\lifecycle-livedata-2.6.2\res
+com.example.helpassistance.app-core-1.13.0-27 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\c6011584535902cc4d8b64cdfd1ce237\transformed\core-1.13.0\res
+com.example.helpassistance.app-jetified-core-viewtree-1.0.0-28 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\c7949abf2a22e57ce807fbfe425774a3\transformed\jetified-core-viewtree-1.0.0\res
+com.example.helpassistance.app-lifecycle-viewmodel-2.6.2-29 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\c9676f429f6462de09c852bb80b98e31\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.helpassistance.app-cardview-1.0.0-30 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\c9716573759351d201a127790c3267d9\transformed\cardview-1.0.0\res
+com.example.helpassistance.app-drawerlayout-1.1.1-31 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\d238f8f9222ecf574f511f656ff328c1\transformed\drawerlayout-1.1.1\res
+com.example.helpassistance.app-jetified-ads-adservices-1.1.0-beta11-32 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\d978452412cc776d4d1d119beeb4b3a9\transformed\jetified-ads-adservices-1.1.0-beta11\res
+com.example.helpassistance.app-recyclerview-1.1.0-33 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\dc3f6a845041793ed53f9b91c1dcc2a9\transformed\recyclerview-1.1.0\res
+com.example.helpassistance.app-material-1.12.0-34 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\df4c925892235238dc6ef1f41ca8c24f\transformed\material-1.12.0\res
+com.example.helpassistance.app-jetified-startup-runtime-1.1.1-35 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\e38b5362e7b5550286b3d7e221b8b4fb\transformed\jetified-startup-runtime-1.1.1\res
+com.example.helpassistance.app-jetified-emoji2-views-helper-1.3.0-36 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\e8a620fd8e759a02ebbc1c08e379a30e\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.helpassistance.app-browser-1.4.0-37 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\eda0f90b6a7b09c4c8bb54780c827fe0\transformed\browser-1.4.0\res
+com.example.helpassistance.app-constraintlayout-2.2.1-38 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\f50c4080d7e6292577041e0286847c91\transformed\constraintlayout-2.2.1\res
+com.example.helpassistance.app-jetified-credentials-play-services-auth-1.2.0-rc01-39 C:\Users\rakes\.gradle\caches\9.0-milestone-1\transforms\f67d26a8ec7889220e536b0661df0bc5\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.helpassistance.app-pngs-40 C:\Users\rakes\Downloads\Vehicle Breakdown Assistance\Vehicle Breakdown Assistance\app\build\generated\res\pngs\debug
+com.example.helpassistance.app-res-41 C:\Users\rakes\Downloads\Vehicle Breakdown Assistance\Vehicle Breakdown Assistance\app\build\generated\res\processDebugGoogleServices
+com.example.helpassistance.app-resValues-42 C:\Users\rakes\Downloads\Vehicle Breakdown Assistance\Vehicle Breakdown Assistance\app\build\generated\res\resValues\debug
+com.example.helpassistance.app-packageDebugResources-43 C:\Users\rakes\Downloads\Vehicle Breakdown Assistance\Vehicle Breakdown Assistance\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.helpassistance.app-packageDebugResources-44 C:\Users\rakes\Downloads\Vehicle Breakdown Assistance\Vehicle Breakdown Assistance\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.helpassistance.app-debug-45 C:\Users\rakes\Downloads\Vehicle Breakdown Assistance\Vehicle Breakdown Assistance\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.helpassistance.app-debug-46 C:\Users\rakes\Downloads\Vehicle Breakdown Assistance\Vehicle Breakdown Assistance\app\src\debug\res
+com.example.helpassistance.app-main-47 C:\Users\rakes\Downloads\Vehicle Breakdown Assistance\Vehicle Breakdown Assistance\app\src\main\res
