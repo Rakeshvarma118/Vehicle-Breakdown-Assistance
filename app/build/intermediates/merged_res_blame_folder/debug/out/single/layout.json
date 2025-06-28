@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/activity_customer_map.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/activity_customer_map.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/activity_signup.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/check_loc_dialog.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/check_loc_dialog.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/info_dialog.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/info_dialog.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/activity_customer_location.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/activity_customer_location.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/activity_helper_dashboard.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/activity_helper_dashboard.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/activity_home.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/activity_helper_location.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/activity_helper_location.xml"
+    },
+    {
+        "merged": "com.example.helpassistance.app-mergeDebugResources-43:/layout/activity_login.xml",
+        "source": "com.example.helpassistance.app-main-46:/layout/activity_login.xml"
+    }
+]
