@@ -7,7 +7,7 @@ Imagine you are driving on the highway, and your car suddenly breaks down or you
 **Vehicle Breakdown Assistance** is an Android application designed to help users quickly find nearby mechanics during unexpected vehicle breakdowns. The app uses real-time location tracking with Google Maps and cloud-based Firebase services to connect users with service providers efficiently.
 
 ## Functional Requirements:
-Main modules:
+**Main modules:**
 
 1.Sign-Up and log in.
 
@@ -17,7 +17,7 @@ Main modules:
 
 4.Pinpoint of the current location on GPS/ Integration of location service in-app.
 
-Sign-Up and log in: 
+**Sign-Up and log in:** 
 
 1.First of all, the user (Mechanic/Helper, Customer) will encounter the login screen which requires the user to log in to the application.
 
@@ -29,10 +29,9 @@ Sign-Up and log in: 
 
 5.Forgot password and Remember me options should be available.
 
-Customer dashboard:
+**Customer dashboard:**
 
 1.The customer should be able to login into the application.
-
 
 2.The customer should be able to add his basic information including name/ contact number/location/ Vehicle number. 
 
@@ -44,7 +43,7 @@ Customer dashboard:
 
 6.The customer can see the location and arrival time of the helper.
 
-Helper dashboard:
+**Helper dashboard:**
 
 1.Helpers should be able to login into the application.
 
